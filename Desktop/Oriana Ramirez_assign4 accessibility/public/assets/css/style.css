@@ -86,7 +86,7 @@ form .flexbox:hover span {
 }
 /* checked */
 form .flexbox span.checked {
-    background-color: #2196F3;
+    background-color: #1271be;
 }
 form .flexbox span:after {
     content: "";
@@ -116,7 +116,7 @@ input[type=submit] {
     font-family: Quando;
     text-transform: uppercase;
     width: calc( 100% - 2px );
-    background-color: #B7D2FF;
+    background-color: #3a63ab;
     border: none;
     color: white;
     padding: 16px 32px;
